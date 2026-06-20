@@ -1,10 +1,15 @@
 Web Development  Portfolio – [Anup Jha]
-Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
+
+
 
 👤 Profile Summary
+
 Computer Science undergraduate focused on Machine Learning and Generative AI. Skilled in Python, Scikit-learn,
 FastAPI, Django, and LLM-powered application development. Currently strengthening DSA using C++
+
+
 🧠 Skills 
+
 Languages: Python, JavaScript, SQL, C++
 Frameworks: Django, FastAPI, ReactJS, Tailwind CSS
 Databases: MySQL, MongoDB, SQLite
@@ -12,7 +17,9 @@ AI/ML: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Prompt Engineering, Gem
 Tools: Git, GitHub, VS Code, PyCharm, Jupyter Notebook, Google Cola
 
 💼Experience
-[Tenders Plus Business Consulting Pvt. Ltd.], [Gurgaon , Haryana ] — [Frontend Developer & Digital Marketing Intern]
+
+
+Tenders Plus Business Consulting Pvt. Ltd. , [Gurgaon , Haryana ] — [Frontend Developer & Digital Marketing Intern]
 Jan 2026– Feb 2026
 
 ◦ Developed responsive web pages using HTML, CSS, and JavaScript, improving user experience and engage
@@ -35,17 +42,23 @@ ment.
 ◦ Generated business insights through statistical analysis and visualization.
 
 🎓 Education
+
+
 KIIT College of Engineering
 2024– 2028
 Bachelor of Technology in Computer Science and Engineering
 
 📜 Certifications & Awards
+
+
 ▸ 1st Prize - Dr. APJ Abdul Kalam Science & Technology Model Competition (2024) 
 ▸ 3rd Position - Project Development Competition (National Technology Day) 
 ▸ 2nd Position - Declamation on the Constitution 
 ▸ 1st Position - Cricket (Sports Day)
 
 ❤️ Volunteer Experience
+
+
 ▸ Google Student Ambassador (Top 250) 
 ▸ AIML Club Coordinator
 
